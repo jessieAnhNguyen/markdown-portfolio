@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://www.google.com/url?sa=i&url=http%3A%2F%2Fblog.collegegreenlight.com%2Fblog%2Fget-know-university-rochester-2%2F&psig=AOvVaw1XEkqhSlT4R5b08o3let0A&ust=1591095437954000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD_nMa64OkCFQAAAAAdAAAAABAD)
+![Image of University of Rochester](https://www.rochester.edu/libraries/images/rush-rhees.jpg)
