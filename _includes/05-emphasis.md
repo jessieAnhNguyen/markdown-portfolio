@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My programming languages are **Java**, __Python__, __C__, and __JavaScript__
+
+My favorite IDEs are *Sublime*, *IntellIJ*, *Visual Studio*
